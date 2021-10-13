@@ -1,0 +1,12 @@
+#!/usr/local/bin/python3
+
+from PIL import Image
+import sys
+
+if len(sys.argv) < 3:
+    print("Need input file and output file!")
+    sys.exit(0)
+
+
+im = Image.open(sys.argv[1])
+im.save(sys.argv[2], 'gif', save_all=True, optimize=True, background=0)
