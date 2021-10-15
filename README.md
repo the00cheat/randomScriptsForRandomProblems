@@ -23,7 +23,7 @@ So in a generic sense, its just a list of instructions to perform a task. Also w
 | 5    | PHP          |<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/stars_4_half.png" width="75">|
 
 - <sup>1</sup> Theres are some others that I havent listed like Node.js which is a superset of javascript and also MongoDB which works well with javascript / Node but I'm sure how to classify it.
-- <sup>2</sup> Sql is technically a scripting language, but I don't see us using it. Maybe if we use SQLite we can.
+- <sup>2</sup> Sql is technically a scripting language, but I don't see us using it. We might find a use for SQLite, but we will see.
   
 
 #### Advantages of scripts:
