@@ -24,7 +24,7 @@ So in a generic sense, its just a list of instructions to perform a task. Also w
 
 - <sup>1</sup> Theres are some others that I havent listed like Node.js which is a superset of javascript and also MongoDB which works well with javascript / Node but I'm sure how to classify it.
 - <sup>2</sup> Sql is technically a scripting language, but I don't see us using it. Maybe if we use SQLite we can.
-- 
+  
 
 #### Advantages of scripts:
 - Does not require the file to be compiled (but may be when necessary).
